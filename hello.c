@@ -2,6 +2,8 @@
 int main(){
      printf("My first github program using c ");
      printf(" New changes");
-     printf("  hello niveditha bp");
-     return 0;
+     printf(" new line from git");
+     printf(" new line from edit option for pull");
+     printf(" new edit ");
 }
+
