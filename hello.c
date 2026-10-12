@@ -7,5 +7,9 @@ int main(){
      printf(" new edit ");
      printf("test");
      printf("this is my new commit");
+
+     /*new */
+     printf("new branch feature"):
+     return 0;
 }
 
