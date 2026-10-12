@@ -6,5 +6,6 @@ int main(){
      printf(" new line from edit option for pull");
      printf(" new edit ");
      printf("test");
+     printf("this is my new commit");
 }
 
